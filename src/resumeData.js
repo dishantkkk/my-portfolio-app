@@ -1,7 +1,7 @@
 let resumeData = {
     "imagebaseurl":"https://dishantkkk.github.io/",
     "name": "Dishant Kumar Kushwaha",
-    "role": "Full Stack developer and Android App developer",
+    "role": "Java Full Stack developer ",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
     "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
